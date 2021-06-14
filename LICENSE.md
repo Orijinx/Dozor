@@ -1,2 +1,2 @@
 
-Copyright (C) 2021 Vlad
+Copyright (C) 2021 Orijinx
