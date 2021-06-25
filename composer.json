@@ -1,0 +1,20 @@
+{
+    "name": "sigma/dozor",
+    "description": "MVC \u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000 \u0000\u0000\u0000\u0000\u0000\u0000\u0000 \"\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000\u0000\u0000\"",
+    "type": "project",
+    "license": "no license",
+    "authors": [{
+        "name": "Vladislav",
+        "email": "orijinx.ifno@gmail.com"
+    }],
+    "autoload": {
+        "files": [
+            "app/controllers/MainController.php",
+            "utils/view.php"
+        ]
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.3"
+    }
+
+}
